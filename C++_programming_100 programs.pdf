@@ -1,0 +1,13 @@
+| # | Title | Key concept |
+|---|---|---|
+| 01 | Hello World | Program structure, `cout`, `endl`, namespace |
+| 02 | Multi-line Output & Escape Sequences | `\n`, `\t`, `\\`, `\"`, comments |
+| 03 | Variable Declaration & Initialization | `int`, `float`, `double`, `char`, `bool`, `sizeof` |
+| 04 | Sum of Two Integers | `cin >>`, `+` operator |
+| 05 | Product of Two Floats | `double` arithmetic |
+| 06 | Swap Two Numbers | Three-step swap idiom with temp |
+| 07 | Area & Perimeter of Rectangle | Multi-variable I/O, precedence |
+| 08 | Celsius → Fahrenheit | Integer-division trap (`9.0/5.0`) |
+| 09 | Size of Primitive Data Types | `sizeof`, platform dependence |
+| 10 | ASCII Value of a Character | `char ↔ int` conversion |
+
