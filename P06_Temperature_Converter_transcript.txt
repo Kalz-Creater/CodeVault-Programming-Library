@@ -1,0 +1,5 @@
+===== SAMPLE INPUT =====
+37.5
+
+===== EXPECTED OUTPUT (real terminal capture) =====
+Enter temperature in Celsius: 37.50°C = 99.50°F

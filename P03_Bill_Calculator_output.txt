@@ -1,0 +1,10 @@
+Enter item name: Enter quantity: Enter unit price (Rs): 
+-------------------------------
+       SIMPLE BILL RECEIPT     
+-------------------------------
+ Item        : Notebook
+ Quantity    : 5
+ Unit Price  : Rs. 35.50
+-------------------------------
+ TOTAL       : Rs. 177.50
+-------------------------------

@@ -1,0 +1,18 @@
+===== SAMPLE INPUT =====
+Rahul
+10A
+42
+Mathematics
+15/11/2026
+
+===== EXPECTED OUTPUT (real terminal capture) =====
+Enter student name : Enter class         : Enter roll number   : Enter subject       : Enter exam date     : 
+============================================
+         EXAMINATION MARKSHEET             
+============================================
+ Name    : Rahul
+ Class   : 10A
+ Roll No.: 42
+ Subject : Mathematics
+ Date    : 15/11/2026
+============================================

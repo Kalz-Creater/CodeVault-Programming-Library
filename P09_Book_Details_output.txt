@@ -1,0 +1,10 @@
+Enter book title  : Enter author name : Enter ISBN        : Enter price (Rs)  : Enter number of pages: 
+=============================================
+          LIBRARY BOOK INFORMATION          
+=============================================
+ Title  : LetUsC
+ Author : YashavantKanetkar
+ ISBN   : 9788183331630
+ Price  : Rs. 450.00
+ Pages  : 658
+=============================================

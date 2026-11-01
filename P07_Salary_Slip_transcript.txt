@@ -1,0 +1,17 @@
+===== SAMPLE INPUT =====
+Anitha
+25000
+
+===== EXPECTED OUTPUT (real terminal capture) =====
+Enter employee name: Enter basic salary (Rs): 
+============================================
+            MONTHLY SALARY SLIP             
+============================================
+ Employee : Anitha
+--------------------------------------------
+ Basic Salary : Rs.   25000.00
+ HRA (20%)    : Rs.    5000.00
+ DA  (10%)    : Rs.    2500.00
+--------------------------------------------
+ Gross Salary : Rs.   32500.00
+============================================

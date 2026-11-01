@@ -1,0 +1,16 @@
+===== SAMPLE INPUT =====
+Sasidharan
+20
+45
+CSE
+
+===== EXPECTED OUTPUT (real terminal capture) =====
+Enter student name: Enter age: Enter roll number: Enter branch: 
+========================================
+        STUDENT INFORMATION CARD        
+========================================
+ Name        : Sasidharan
+ Age         : 20 years
+ Roll Number : 45
+ Branch      : CSE
+========================================

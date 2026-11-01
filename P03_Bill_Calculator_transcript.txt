@@ -1,0 +1,16 @@
+===== SAMPLE INPUT =====
+Notebook
+5
+35.50
+
+===== EXPECTED OUTPUT (real terminal capture) =====
+Enter item name: Enter quantity: Enter unit price (Rs): 
+-------------------------------
+       SIMPLE BILL RECEIPT     
+-------------------------------
+ Item        : Notebook
+ Quantity    : 5
+ Unit Price  : Rs. 35.50
+-------------------------------
+ TOTAL       : Rs. 177.50
+-------------------------------

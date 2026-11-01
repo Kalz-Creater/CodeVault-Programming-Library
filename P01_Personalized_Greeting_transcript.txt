@@ -1,0 +1,5 @@
+===== SAMPLE INPUT =====
+Sasidharan
+
+===== EXPECTED OUTPUT (real terminal capture) =====
+Enter your name: Hello, Sasidharan! Welcome to C programming.

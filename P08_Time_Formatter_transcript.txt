@@ -1,0 +1,5 @@
+===== SAMPLE INPUT =====
+135
+
+===== EXPECTED OUTPUT (real terminal capture) =====
+Enter total minutes: 135 minutes = 2 hours 15 minutes

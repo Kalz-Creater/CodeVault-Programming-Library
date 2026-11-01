@@ -1,0 +1,10 @@
+Enter your name        : Enter your age         : Enter height in cm     : Enter blood group      : Enter your city        : 
+=============================================
+           PERSONAL PROFILE CARD            
+=============================================
+ Name        : Deepak                        
+ Age         : 21 years
+ Height      : 172.50 cm
+ Blood Group : O+
+ City        : Chennai
+=============================================
